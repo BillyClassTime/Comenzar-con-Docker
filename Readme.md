@@ -143,3 +143,8 @@ Los sistemas de archivos Union, o UnionFS, son sistemas de archivos que operan c
 ### Formato de contenedor 
 
 Docker Engine combina los espacios de nombres, los grupos de control y UnionFS en un contenedor llamado formato contenedor. El formato de contenedor predeterminado es `libcontainer`. En el futuro, Docker puede admitir otros formatos de contenedor mediante la integración con tecnologías como BSD Jails o Solaris Zones.
+
+### Ejemplos de Docker con .Net
+
+[.NET Docker samples](https://github.com/dotnet/dotnet-docker/blob/master/samples/README.md#net-docker-samples)
+

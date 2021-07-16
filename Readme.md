@@ -18,9 +18,9 @@ Docker proporciona herramientas y una plataforma para administrar el ciclo de vi
 
 *Docker Engine* es una aplicación cliente-servidor con estos componentes principales:
 
-- Un servidor que es un tipo de programa de larga ejecución llamado proceso demonio (el `dockerd`comando).
+- Un servidor que es un tipo de programa de larga ejecución llamado proceso demonio (el comando `dockerd`).
 - Una API REST que especifica interfaces que los programas pueden usar para hablar con el demonio e indicarle qué hacer.
-- Un cliente de interfaz de línea de comandos (CLI) (el `docker`comando).
+- Un cliente de interfaz de línea de comandos (CLI) (el comando `docker`).
 
 ![](img/engine-components-flow.png)
 
